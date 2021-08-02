@@ -3,6 +3,9 @@
 		{
 			"name": "NAL.TC1028.python.basicos",
 			"path": "."
+		},
+		{
+			"path": "../../EjerciciosGH/TC1028.ejercicios.basicos"
 		}
 	],
 	"settings": {}
